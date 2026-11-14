@@ -10,3 +10,4 @@ numpy==2.2.3
 sqlalchemy==2.0.38
 python-dotenv==1.2.3
 requests==2.34.2
+gunicorn
